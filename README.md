@@ -4,8 +4,9 @@ The website is about the campous enrollment process during the admissions in the
 
 It is made using Html,Css,javascript and the data stored in local storage
 
-![login page](https://github.com/user-attachments/assets/ed595221-2009-4985-8dcb-096c5a63baec)
 ![welcome](https://github.com/user-attachments/assets/6de1a06e-463b-495e-a0bf-7c4cb6724e56)
+![login page](https://github.com/user-attachments/assets/ed595221-2009-4985-8dcb-096c5a63baec)
+
 
 
 
