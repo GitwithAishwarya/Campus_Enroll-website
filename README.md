@@ -17,7 +17,8 @@ StudentLogin:
 
 Teacher Login-Teacher Dashboard
 
-![Uploading t1.jpg…]()
+![t1](https://github.com/user-attachments/assets/fe26389a-dd50-4263-afe4-a13fcaeba5d0)
+
 
 
 
